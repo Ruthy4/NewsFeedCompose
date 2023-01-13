@@ -22,5 +22,5 @@ NewsFeed is simple App which uses NewsAPI to get top headlines for Nigeria.
 
 - Git Clone the repo
 - Get the API Key from [NewsAPI](https://newsapi.org/)
-- Add YOUR NEWS API KEY to local.properties
+- Add API_KEY = "YOUR NEWS API KEY" to local.properties 
 - Build app and enjoy
